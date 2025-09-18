@@ -1,4 +1,4 @@
-tensorflow
 scikit-learn
 joblib
 streamlit
+tensorflow==2.12.0
